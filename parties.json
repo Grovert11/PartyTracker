@@ -1,0 +1,20 @@
+{"parties":
+	{
+		"0": {
+			"title": "AC Party 1: Gold Crush",
+			"association": "Intermate",
+			"datetimeStart": "2016-10-05 21:00:00",
+			"datetimeEnd": "2016-10-06 02:00:00",
+			"img": "http://intermate.nl/wp-content/uploads/2016/09/Gold-Crush-1024x724.jpg",
+			"url": "http://intermate.nl/2016/ac-party-1-gold-crush/"
+		},
+		"1": {
+			"title": "AC Party 2",
+			"association": "Intermate",
+			"datetimeStart": "2017-02-14 20:00:00",
+			"datetimeEnd": "2017-02-15 01:00:00",
+			"img": "http://placehold.it/700x300",
+			"url": "http://intermate.nl/sjakie/"
+		}
+	}
+}
