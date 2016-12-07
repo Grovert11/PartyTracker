@@ -1,0 +1,31 @@
+body {
+    padding-top: 80px;
+}
+
+.party {
+	max-height: 300px;
+	overflow: hidden;
+}
+
+.dropdown, .dropdown-menu-right{
+	text-align: right;
+}
+
+#sortText {
+	display: inline;
+}
+
+/*
+	Sections of the page
+*/
+
+section {
+	padding-top: 25px;
+}
+
+#parties {
+	background: #fff;
+}
+#about {
+	background: #fcc;
+}

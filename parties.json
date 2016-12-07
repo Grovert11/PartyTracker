@@ -15,6 +15,22 @@
 			"datetimeEnd": "2017-02-15 01:00:00",
 			"img": "http://placehold.it/700x300",
 			"url": "http://intermate.nl/sjakie/"
+		},
+		"2": {
+			"title": "BMT-feest 2: Casino Royale",
+			"association": "Protagoras",
+			"datetimeStart": "2016-12-14 21:00:00",
+			"datetimeEnd": "2016-12-15 02:00:00",
+			"img": "https://scontent-amt2-1.xx.fbcdn.net/t31.0-8/15195835_1234892296548560_5257477109344862715_o.jpg",
+			"url": "https://www.facebook.com/events/1773395989579317/"
+		},
+		"3": {
+			"title": "#STUK Midwinter Beach Party",
+			"association": "Demos",
+			"datetimeStart": "2016-12-15 20:00:00",
+			"datetimeEnd": "2016-12-16 06:00:00",
+			"img": "https://scontent-amt2-1.xx.fbcdn.net/t31.0-8/14976641_1151732438226674_3947215961902249886_o.png",
+			"url": "https://www.facebook.com/events/1149152485192824/"
 		}
 	}
 }
