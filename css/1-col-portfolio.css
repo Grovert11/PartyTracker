@@ -16,3 +16,11 @@ footer {
 	max-height: 300px;
 	overflow: hidden;
 }
+
+.dropdown, .dropdown-menu-right{
+	text-align: right;
+}
+
+#sortText {
+	display: inline;
+}
