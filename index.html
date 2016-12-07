@@ -64,7 +64,16 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">Parties
-                    <small>Sorted by ID</small>
+				<div class="dropdown">
+					<button class="btn btn-default dropdown-toggle dropdown-menu-right" type="button" id="dropdownMenuSort" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+						<div id="sortText">Sort by</div>
+						<span class="caret"></span>
+					</button>
+					<ul class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenu1">
+						<li><a id="ddAss">Association</a></li>
+						<li><a id="ddDT">Date/time</a></li>
+					</ul>
+				</div>
                 </h1>
             </div>
         </div>
