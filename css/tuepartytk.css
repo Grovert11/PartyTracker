@@ -2,6 +2,10 @@ body {
     padding-top: 80px;
 }
 
+.navbar {
+	background: #059;
+}
+
 .party {
 	max-height: 300px;
 	overflow: hidden;
